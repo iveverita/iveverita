@@ -1,8 +1,8 @@
 ## Hi, I'm Ion
 
-📚 Mathemathics and Computer Science student at [@Unistra](https://www.unistra.fr)
-⚔️ Cybersecurity Enthusiast, CTF Player and Top 4% on TryHackMe 
-🔭 Professional Experience in System Administration, Informational Security and IT Supervision 
+📚 Mathemathics and Computer Science student at [@Unistra](https://www.unistra.fr)</br>
+⚔️ Cybersecurity Enthusiast, CTF Player and Top 4% on TryHackMe </br>
+🔭 Professional Experience in System Administration, Informational Security and IT Supervision </br>
 
 
 
